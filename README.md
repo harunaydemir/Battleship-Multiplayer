@@ -83,9 +83,11 @@ Proje kodlanırken **SOLID** prensiplerine ve modüler mimariye dikkat edilmişt
 
 <br>
 
-## 🔌 Kurulum ve Oynanış
+## 🚀 Kurulum ve Oynanış
 
-1. Projeyi bilgisayarınıza indirin:
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+1. Depoyu yerel makinenize klonlayın:
    ```bash
-   git clone https://github.com/harunaydemir/Battleship-Multiplayer.git<img width="1919" height="1015" alt="ekran2" src="https://github.com/user-attachments/assets/0bfc201b-8397-47ae-b1e8-00b7441d258a" />
+   git clone [https://github.com/harunaydemir/Battleship-Multiplayer.git](https://github.com/harunaydemir/Battleship-Multiplayer.git)
 
