@@ -6,6 +6,22 @@ C# ve Windows Forms ile geliştirilmiş, **bilgisayara karşı** ya da **ağ üz
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
 
+---
+
+## İçindekiler
+
+- [Ekran görüntüleri](#ekran-görüntüleri)
+- [Özellikler](#özellikler)
+- [Oyun kuralları](#oyun-kuralları)
+- [Kurulum ve çalıştırma](#kurulum-ve-çalıştırma)
+- [Nasıl oynanır](#nasıl-oynanır)
+- [Online oyun (iki kişilik)](#online-oyun-iki-kişilik)
+- [Bilgisayar rakip nasıl düşünür](#bilgisayar-rakip-nasıl-düşünür)
+- [Proje yapısı](#proje-yapısı)
+- [Ağ protokolü](#ağ-protokolü)
+- [Bilinen sınırlamalar ve fikirler](#bilinen-sınırlamalar-ve-fikirler)
+
+---
 ## Ekran görüntüleri
 
 <table>
@@ -22,21 +38,6 @@ C# ve Windows Forms ile geliştirilmiş, **bilgisayara karşı** ya da **ağ üz
 </table>
 
 <sub>Görüntülerin üzerine tıklayarak tam boyutta açabilirsin. Üçü de aynı online oyundan alınmıştır: soldaki iki pencere sunucu ve istemcinin karşılıklı görünümü, sağdaki oyunun bittiği an.</sub>
-
----
-
-## İçindekiler
-
-- [Ekran görüntüleri](#ekran-görüntüleri)
-- [Özellikler](#özellikler)
-- [Oyun kuralları](#oyun-kuralları)
-- [Kurulum ve çalıştırma](#kurulum-ve-çalıştırma)
-- [Nasıl oynanır](#nasıl-oynanır)
-- [Online oyun (iki kişilik)](#online-oyun-iki-kişilik)
-- [Bilgisayar rakip nasıl düşünür](#bilgisayar-rakip-nasıl-düşünür)
-- [Proje yapısı](#proje-yapısı)
-- [Ağ protokolü](#ağ-protokolü)
-- [Bilinen sınırlamalar ve fikirler](#bilinen-sınırlamalar-ve-fikirler)
 
 ---
 
